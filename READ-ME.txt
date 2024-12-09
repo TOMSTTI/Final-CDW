@@ -1,9 +1,0 @@
-Creado para proyecto final del Curso de desarrolo web
-
-Convina todo lo aprendido con el contenido visto
-la pagina convina html, css ,js , y bosstrap 
-
-El proyecto esta basado en un restaurante llamado Leñas Y Brazas, lo que se puede moldear para mejorar el trabajo
-
-
-
